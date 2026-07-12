@@ -23,9 +23,9 @@ PortfolioProject_MarketingAnalytics/
 ├── Query.sql                # EDA + cleaning + view creation scripts
 ├── Dashboard.pbix           # Power BI dashboard
 ├── Notebook.ipynb           # Optional Python analysis (bonus)
-└── Ref/                     # Materials provided by Orange (inputs/templates)
+└── Row_Data/                     # Materials provided by Orange (inputs/templates)
 </pre>
-## 📂 Ref Folder (Provided by Orange)
+## 📂 Row_Data Folder (Provided by Orange)
 
 Place the project inputs sent by Orange inside `Ref/`, for example:
 * 📄 `DA_Marketing_Project.pdf` (project brief / requirements)
