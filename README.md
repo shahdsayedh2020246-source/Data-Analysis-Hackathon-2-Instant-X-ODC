@@ -1,31 +1,25 @@
-# Marketing Analytics Project — ShopEasy Performance Analysis
+# 📊 Marketing Analytics Project — SQL Server + Power BI + Python
 
-## 📌 Project Overview
-This project analyzes **ShopEasy’s** marketing performance to address critical business challenges, including:
-* 📉 **Declining customer engagement**
-* 🛒 **Low conversion rates**
-* 💰 **High marketing spend** with weak ROI
-* ⭐ **Decreasing customer satisfaction** based on recent reviews
+## 📝 Overview
+This project analyzes ShopEasy’s marketing performance to address:
+* 📉 Declining customer engagement
+* 🛒 Low conversion rates
+* 💰 High marketing spend with weak ROI
+* ⭐ Decreasing customer satisfaction based on reviews
 
-The workflow covers the entire data pipeline: from raw **Data Profiling (EDA)** and **Data Cleaning** in SQL Server, to building a robust **Reporting-Ready Layer (SQL Views)**, and finally creating an interactive **Power BI Dashboard** for executive insights. An optional Python notebook is also included for advanced exploratory analysis.
-
----
+The workflow covers data profiling (EDA), data cleaning, and building a reporting-ready layer (SQL views) that feeds a Power BI dashboard. A Python notebook is included for optional/bonus analysis.
 
 ## 🛠️ Tech Stack
-* **Database:** SQL Server (Database Restore, EDA, Cleaning, Reporting Views)
-* **IDE:** SQL Server Management Studio (SSMS)
-* **Visualization:** Power BI Desktop (Dashboard, Data Modeling & KPIs)
-* **Advanced Analytics:** Python (Jupyter Notebook for bonus EDA)
-
----
+* 🗄️ **SQL Server** (database restore, EDA, cleaning, reporting views)
+* 💻 **SSMS** (query execution)
+* 📊 **Power BI Desktop** (dashboard & KPIs)
+* 🐍 **Python (Jupyter Notebook)** (optional exploratory analysis)
 
 ## 📁 Repository Structure
 ```text
 PortfolioProject_MarketingAnalytics/
 │
 ├── Query.sql                # EDA + cleaning + view creation scripts
-├── Dashboard.pbix           # Power BI dashboard file
+├── Dashboard.pbix           # Power BI dashboard
 ├── Notebook.ipynb           # Optional Python analysis (bonus)
-└── Ref/                     # Materials provided for project requirements
-    ├── DA_Marketing_Project.pdf          # Project brief / requirements
-    └── MarketingAnalyticsProject.bak     # SQL Server database backup
+└── Ref/                     # Materials provided by Orange (inputs/templates)
