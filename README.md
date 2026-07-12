@@ -16,13 +16,15 @@ The workflow covers data profiling (EDA), data cleaning, and building a reportin
 * 🐍 Python (Jupyter Notebook) (optional exploratory analysis)
 
 ## 📁 Repository Structure
-```text
+
+<pre>
 PortfolioProject_MarketingAnalytics/
 │
 ├── Query.sql                # EDA + cleaning + view creation scripts
 ├── Dashboard.pbix           # Power BI dashboard
 ├── Notebook.ipynb           # Optional Python analysis (bonus)
 └── Ref/                     # Materials provided by Orange (inputs/templates)
+</pre>
 📂 Ref Folder (Provided by Orange)
 Place the project inputs sent by Orange inside Ref/, for example:
 
