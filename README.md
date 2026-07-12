@@ -23,8 +23,12 @@ PortfolioProject_MarketingAnalytics/
 ├── Query.sql                # EDA + cleaning + view creation scripts
 ├── Dashboard.pbix           # Power BI dashboard
 ├── Notebook.ipynb           # Optional Python analysis (bonus)
+├── dashboard1.png           # KPIs Dashboard Screenshot
+├── dashboard2.png           # Reactions Dashboard Screenshot
+├── dashboard3.png           # Customer Dashboard Screenshot
 └── Row_Data/                     # Materials provided by Orange (inputs/templates)
 </pre>
+
 ## 📂 Row_Data Folder (Provided by Orange)
 
 Place the project inputs sent by Orange inside `Ref/`, for example:
@@ -33,6 +37,27 @@ Place the project inputs sent by Orange inside `Ref/`, for example:
 * 📝 Any additional notes, templates, or supporting assets shared with the assignment
 
 > 💡 **Tip:** Keeping “provided materials” in `Ref/` makes the project clean and easy to review.
+
+---
+
+## 📊 Interactive Dashboards & Insights
+
+The Power BI report consists of three main analytical views designed to optimize marketing decisions:
+
+### 1️⃣ Strategic KPIs Dashboard
+Provides a high-level strategic overview of primary conversion, engagement, and order metrics alongside customer lifecycle flow funnel analysis.
+
+![Strategic KPIs Dashboard](dashboard1.png)
+
+### 2️⃣ Reactions & Content Performance
+Deep dives into audience interaction metrics across various content distribution mediums, breaking down engagement rates and content sentiment.
+
+![Reactions & Content Performance](dashboard2.png)
+
+### 3️⃣ Customer Behavior & Geography Analysis
+Maps customer concentration globally while cross-referencing shopping duration performance against review patterns and transactional details.
+
+![Customer Behavior & Geography Analysis](dashboard3.png)
 
 ---
 
